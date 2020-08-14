@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Favorite Bands
+* Jack's Mannequin
+* Anberlin
+* Fallout Boy
+* Dashboard Confessional
+* Florence + The Machine
